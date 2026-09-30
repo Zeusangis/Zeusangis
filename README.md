@@ -1,24 +1,211 @@
+
 <h1 align="center">Hi 👋, I'm Unish Khadka</h1>
-<h3 align="center">A programming enthusiast and a learner.</h3>
-<img align="right" alt="coding" width="330" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/unish.khadka.14) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unish.khadka.14) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/unish_14) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/unish_khadka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unish-khadka-642206280/)
+<h3 align="center">Computer Science Student • Backend Developer • Software Builder</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Golang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zeusangis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zeusangis&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeusangis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  I enjoy building backend systems, APIs, databases, and the infrastructure behind real-world applications.
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zeusangis&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="https://www.linkedin.com/in/unish-khadka-642206280/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/unish_khadka">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  <a href="https://YOUR-WEBSITE.com">
+    <img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
-[![](https://visitcount.itsvg.in/api?id=Unishkhadka&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+```go
+type Developer struct {
+    Name      string
+    Focus     []string
+    Languages []string
+    Learning  []string
+}
+
+unish := Developer{
+    Name: "Unish Khadka",
+
+    Focus: []string{
+        "Backend Engineering",
+        "API Development",
+        "Database Design",
+        "Cloud Infrastructure",
+    },
+
+    Languages: []string{
+        "Python",
+        "Go",
+        "JavaScript",
+        "C",
+    },
+
+    Learning: []string{
+        "Go",
+        "System Design",
+        "Distributed Systems",
+        "Backend Architecture",
+    },
+}
+```
+
+- 🎓 Computer Science student at the **University of Louisiana Monroe**
+- ⚙️ Focused primarily on **backend engineering**
+- 🐍 Building applications with **Python, Django, and Flask**
+- 🐹 Currently going deeper into **Go**
+- 🔌 Interested in designing reliable and maintainable **APIs**
+- 🗄️ Working with relational databases and learning more about **database design and performance**
+- ☁️ Interested in **cloud infrastructure, serverless architecture, and Cloudflare**
+- 🧠 Learning more about **system design, concurrency, and distributed systems**
+- 🚀 I enjoy building real projects and learning how systems work behind the scenes
+
+---
+
+## ⚙️ Backend Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,c,js,ts" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
+
+### Infrastructure & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,bash,cloudflare" />
+</p>
+
+---
+
+## 🧩 What I'm Interested In
+
+```text
+Backend Engineering
+├── API Design
+├── Authentication & Authorization
+├── Database Design
+├── Caching
+├── Background Jobs
+├── Concurrency
+├── System Design
+├── Distributed Systems
+├── Cloud Infrastructure
+└── Performance & Scalability
+```
+
+I'm especially interested in understanding what happens beyond the frontend:
+
+**Request → API → Business Logic → Database → Cache → Background Jobs → Infrastructure**
+
+---
+
+## 🚀 Featured Projects
+
+### 🏗️ Backend Application
+
+**Python • Django • PostgreSQL • REST API**
+
+A full-stack application with most of my focus on backend architecture, database modeling, authentication, APIs, and application logic.
+
+`REST APIs` `Authentication` `PostgreSQL` `Django`
+
+[View Repository →](YOUR_REPOSITORY_URL)
+
+---
+
+### ⚡ Go Backend Service
+
+**Go • PostgreSQL • REST API**
+
+A backend project I'm using to improve my understanding of Go, concurrency, API design, and backend architecture.
+
+`Go` `PostgreSQL` `REST API`
+
+[View Repository →](YOUR_REPOSITORY_URL)
+
+---
+
+### ☁️ Cloud Application
+
+**Cloudflare • APIs • Database**
+
+A project focused on building and deploying applications using modern cloud and serverless infrastructure.
+
+`Cloudflare` `APIs` `Database` `Serverless`
+
+[View Repository →](YOUR_REPOSITORY_URL)
+
+---
+
+## 📚 Currently Learning
+
+```yaml
+backend:
+  primary: Python
+  learning_deeper: Go
+
+computer_science:
+  - System Design
+  - Distributed Systems
+  - Concurrency
+  - Database Internals
+  - Networking
+
+engineering:
+  - Backend Architecture
+  - Performance
+  - Observability
+  - Cloud Infrastructure
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=Zeusangis&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com/?user=Zeusangis&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeusangis&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zeusangis&style=flat-square&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <b>Building the systems behind the screen.</b>
+</p>
