@@ -7,19 +7,10 @@
   I enjoy building backend systems, APIs, databases, and the infrastructure behind real-world applications.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/unish-khadka-642206280/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/unish_khadka">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
-  </a>
-  <a href="https://YOUR-WEBSITE.com">
-    <img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
-
 ---
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unish-khadka-642206280/) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/unish_khadka) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/unish.khadka.14)
 
 ## 👨‍💻 About Me
 
