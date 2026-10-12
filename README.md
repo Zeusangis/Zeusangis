@@ -1,25 +1,24 @@
-
 <h1 align="center">Hi 👋, I'm Unish Khadka</h1>
 
 <h3 align="center">Computer Science Student • Backend Developer • Software Builder</h3>
 
 <p align="center">
-  I enjoy building backend systems, APIs, databases, and the infrastructure behind real-world applications.
+  I build backend systems, APIs, databases, and software that solves real problems.
 </p>
 
 ---
-## 🌐 Socials:
+
+## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unish-khadka-642206280/) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/unish_khadka) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/unish.khadka.14)
 
-## 👨‍💻 About Me
+## About Me
 
 ```go
 type Developer struct {
     Name      string
     Focus     []string
     Languages []string
-    Learning  []string
 }
 
 unish := Developer{
@@ -29,149 +28,101 @@ unish := Developer{
         "Backend Engineering",
         "API Development",
         "Database Design",
-        "Cloud Infrastructure",
+        "System Design",
     },
 
     Languages: []string{
         "Python",
         "Go",
         "JavaScript",
+        "TypeScript",
         "C",
     },
-
-    Learning: []string{
-        "Go",
-        "System Design",
-        "Distributed Systems",
-        "Backend Architecture",
-    },
 }
-```
 
-- 🎓 Computer Science student at the **University of Louisiana Monroe**
-- ⚙️ Focused primarily on **backend engineering**
-- 🐍 Building applications with **Python, Django, and Flask**
-- 🐹 Currently going deeper into **Go**
-- 🔌 Interested in designing reliable and maintainable **APIs**
-- 🗄️ Working with relational databases and learning more about **database design and performance**
-- ☁️ Interested in **cloud infrastructure, serverless architecture, and Cloudflare**
-- 🧠 Learning more about **system design, concurrency, and distributed systems**
-- 🚀 I enjoy building real projects and learning how systems work behind the scenes
+- Computer Science student at the University of Louisiana Monroe
+- Building backend systems with Python, Go, Django, Flask, and Node.js
+- Working with PostgreSQL, MySQL, SQLite, and Redis
+- Interested in APIs, databases, concurrency, distributed systems, and backend architecture
+- I learn by building real projects and taking them beyond the prototype stage
 
 ---
 
-## ⚙️ Backend Stack
-
-### Languages
+Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,go,c,js,ts" />
-</p>
+</p><p>
+  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,postgres,mysql,sqlite,redis" />
+</p><p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,bash" />
+</p>---
 
-### Backend
+Featured Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
-</p>
+Dendrite
 
-### Databases
+Go • SQLite • Next.js • React
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-</p>
+A local-first knowledge graph for Markdown notes with full-text search, automatic relationships, browser activity tracking, and an interactive graph.
 
-### Infrastructure & Tools
+Built around a Go API and SQLite persistence while keeping Markdown files as the source of truth.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,bash,cloudflare" />
-</p>
+"View Repository →" (https://github.com/Zeusangis/Dendrite)
 
 ---
 
-## 🧩 What I'm Interested In
+TrueHire
 
-```text
-Backend Engineering
-├── API Design
-├── Authentication & Authorization
-├── Database Design
-├── Caching
-├── Background Jobs
-├── Concurrency
-├── System Design
-├── Distributed Systems
-├── Cloud Infrastructure
-└── Performance & Scalability
-```
+Python • Flask • SQLAlchemy • Celery • Redis • React • TypeScript
 
-I'm especially interested in understanding what happens beyond the frontend:
+A technical recruiting platform that combines job-specific resume analysis with public GitHub repository evidence and structured candidate workflows.
 
-**Request → API → Business Logic → Database → Cache → Background Jobs → Infrastructure**
+Includes background processing, recruiter authentication, organization-scoped data, database migrations, analysis retries, automated tests, and CI.
+
+"View Repository →" (https://github.com/Zeusangis/prometheus)
 
 ---
 
-## 🚀 Featured Projects
+Nexus
 
-### 🏗️ Backend Application
+TypeScript • Express.js • Prisma • SQLite • Python • Flask
 
-**Python • Django • PostgreSQL • REST API**
+An athlete performance management platform for coaches and athletes with authentication, performance tracking, daily logs, messaging, and video-based movement analysis.
 
-A full-stack application with most of my focus on backend architecture, database modeling, authentication, APIs, and application logic.
+The system combines a TypeScript backend with a separate Python service for computer-vision-based analysis.
 
-`REST APIs` `Authentication` `PostgreSQL` `Django`
-
-[View Repository →](YOUR_REPOSITORY_URL)
+"View Repository →" (https://github.com/Zeusangis/Nexus)
 
 ---
 
-### ⚡ Go Backend Service
+Django Real Estate
 
-**Go • PostgreSQL • REST API**
+Python • Django • SQL • REST APIs
 
-A backend project I'm using to improve my understanding of Go, concurrency, API design, and backend architecture.
+A full-stack real estate platform with property listings, search, authentication, agent accounts, image uploads, messaging, and payment integration.
 
-`Go` `PostgreSQL` `REST API`
+One of my earlier full-stack projects where I focused heavily on Django backend development and relational data modeling.
 
-[View Repository →](YOUR_REPOSITORY_URL)
-
----
-
-### ☁️ Cloud Application
-
-**Cloudflare • APIs • Database**
-
-A project focused on building and deploying applications using modern cloud and serverless infrastructure.
-
-`Cloudflare` `APIs` `Database` `Serverless`
-
-[View Repository →](YOUR_REPOSITORY_URL)
+"View Repository →" (https://github.com/Zeusangis/django-real-estate)
 
 ---
 
-## 📚 Currently Learning
+Currently Learning
 
-```yaml
 backend:
   primary: Python
-  learning_deeper: Go
+  going_deeper: Go
 
 computer_science:
   - System Design
   - Distributed Systems
   - Concurrency
   - Database Internals
-  - Networking
-
-engineering:
-  - Backend Architecture
-  - Performance
-  - Observability
-  - Cloud Infrastructure
-```
 
 ---
 
-## 📊 GitHub Stats
+GitHub Stats
 
 <p align="center">
   <img
@@ -182,21 +133,16 @@ engineering:
     width="48%"
     src="https://streak-stats.demolab.com/?user=Zeusangis&theme=tokyonight&hide_border=true"
   />
-</p>
-
-<p align="center">
+</p><p align="center">
   <img
     width="45%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeusangis&layout=compact&theme=tokyonight&hide_border=true"
   />
-</p>
-
----
+</p>---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zeusangis&style=flat-square&label=Profile+Views" />
-</p>
-
-<p align="center">
+</p><p align="center">
   <b>Building the systems behind the screen.</b>
 </p>
+```
