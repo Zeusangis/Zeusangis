@@ -39,7 +39,7 @@ unish := Developer{
         "C",
     },
 }
-
+```
 - Computer Science student at the University of Louisiana Monroe
 - Building backend systems with Python, Go, Django, Flask, and Node.js
 - Working with PostgreSQL, MySQL, SQLite, and Redis
