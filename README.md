@@ -1,20 +1,13 @@
-<h1 align="center">Hi 👋, I'm Unish Khadka</h1>
-
-<h3 align="center">Computer Science Student • Backend Developer • Software Builder</h3>
-
-<p align="center">
+<h1 align="center">Hi 👋, I'm Unish Khadka</h1><h3 align="center">Computer Science Student • Backend Developer • Software Builder</h3><p align="center">
   I build backend systems, APIs, databases, and software that solves real problems.
-</p>
+</p>---
 
----
+Socials
 
-## Socials
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/unish-khadka-642206280/) ""X" (https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)" (https://x.com/unish_khadka) ""Instagram" (https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)" (https://instagram.com/unish.khadka.14)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unish-khadka-642206280/) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/unish_khadka) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/unish.khadka.14)
+About Me
 
-## About Me
-
-```go
 type Developer struct {
     Name      string
     Focus     []string
@@ -39,7 +32,7 @@ unish := Developer{
         "C",
     },
 }
-```
+
 - Computer Science student at the University of Louisiana Monroe
 - Building backend systems with Python, Go, Django, Flask, and Node.js
 - Working with PostgreSQL, MySQL, SQLite, and Redis
@@ -68,7 +61,7 @@ A local-first knowledge graph for Markdown notes with full-text search, automati
 
 Built around a Go API and SQLite persistence while keeping Markdown files as the source of truth.
 
-[View Repository →] (https://github.com/Zeusangis/Dendrite)
+"View Repository →" (https://github.com/Zeusangis/Dendrite)
 
 ---
 
@@ -80,7 +73,7 @@ A technical recruiting platform that combines job-specific resume analysis with 
 
 Includes background processing, recruiter authentication, organization-scoped data, database migrations, analysis retries, automated tests, and CI.
 
-[View Repository →] (https://github.com/Zeusangis/prometheus)
+"View Repository →" (https://github.com/Zeusangis/prometheus)
 
 ---
 
@@ -92,7 +85,7 @@ An athlete performance management platform for coaches and athletes with authent
 
 The system combines a TypeScript backend with a separate Python service for computer-vision-based analysis.
 
-[View Repository →] (https://github.com/Zeusangis/Nexus)
+"View Repository →" (https://github.com/Zeusangis/Nexus)
 
 ---
 
@@ -104,7 +97,7 @@ A full-stack real estate platform with property listings, search, authentication
 
 One of my earlier full-stack projects where I focused heavily on Django backend development and relational data modeling.
 
-[View Repository →] (https://github.com/Zeusangis/django-real-estate)
+"View Repository →" (https://github.com/Zeusangis/django-real-estate)
 
 ---
 
@@ -142,7 +135,4 @@ GitHub Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zeusangis&style=flat-square&label=Profile+Views" />
-</p><p align="center">
-  <b>Building the systems behind the screen.</b>
-</p>
-```
+</p><p
