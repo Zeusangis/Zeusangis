@@ -68,7 +68,7 @@ A local-first knowledge graph for Markdown notes with full-text search, automati
 
 Built around a Go API and SQLite persistence while keeping Markdown files as the source of truth.
 
-View Repository → (https://github.com/Zeusangis/Dendrite)
+[View Repository →] (https://github.com/Zeusangis/Dendrite)
 
 ---
 
@@ -80,7 +80,7 @@ A technical recruiting platform that combines job-specific resume analysis with 
 
 Includes background processing, recruiter authentication, organization-scoped data, database migrations, analysis retries, automated tests, and CI.
 
-View Repository → (https://github.com/Zeusangis/prometheus)
+[View Repository →] (https://github.com/Zeusangis/prometheus)
 
 ---
 
@@ -92,7 +92,7 @@ An athlete performance management platform for coaches and athletes with authent
 
 The system combines a TypeScript backend with a separate Python service for computer-vision-based analysis.
 
-View Repository → (https://github.com/Zeusangis/Nexus)
+[View Repository →] (https://github.com/Zeusangis/Nexus)
 
 ---
 
@@ -104,7 +104,7 @@ A full-stack real estate platform with property listings, search, authentication
 
 One of my earlier full-stack projects where I focused heavily on Django backend development and relational data modeling.
 
-View Repository → (https://github.com/Zeusangis/django-real-estate)
+[View Repository →] (https://github.com/Zeusangis/django-real-estate)
 
 ---
 
